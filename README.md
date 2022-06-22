@@ -3,6 +3,8 @@ Site basique déployer sur azure contenant un chatbot
 
 Lien direct : http://chatbox.ukwest.cloudapp.azure.com/?#
 
+Collaboration : QGAlligator
+
 ![image](https://user-images.githubusercontent.com/94532496/175031728-fa0e7f9e-7799-482f-94d6-3215bf81e130.png)
 
 
